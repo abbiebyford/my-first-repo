@@ -1,28 +1,10 @@
-# This is a large heading
+# Abbie Byford
+## PhD student
 
-## This is a smaller heading
+I am a PhD student investigating the effects of glucose, miRNAs, and extracellular vesicles in pregnancies complicated by maternal diabetes.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in *Leeds* and study at the **University of Leeds**
 
-- This is
-- an unordered
-- list
+##Contact
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+You can find me [on Twitter](https://twitter.com/abigailbyford)
